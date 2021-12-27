@@ -1,0 +1,14 @@
+name: OC_2
+dependencies:
+  - python # Python! Not using latest version as some libs lack support
+  - jupyter # to edit and run Jupyter notebooks
+  - matplotlib # beautiful plots. See tutorial tools_matplotlib.ipynb
+  - numpy # Powerful n-dimensional arrays and numerical computing tools
+  - pandas # data analysis and manipulation tool
+  - scikit-learn # machine learning library
+  - missingno #  easy-to-use missing data visualizations
+  - plotly # TensorFlow's visualization toolkit
+  - requests # used only in chapter 19 for REST API queries
+  - scipy # scientific/technical computing library
+  - tqdm # a progress bar library
+  - cython # The Cython compiler for writing C extensions for the Python language
