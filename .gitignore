@@ -4,13 +4,11 @@
 *.lnk
 
 # Folders
-2019/
-_ignore/
+ignore/
 data/
 docs/
 images/
 unused/
-support/
 wordcloud/
 
 *.svg
