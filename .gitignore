@@ -1,7 +1,6 @@
 # Project specific ignored files
 .idea/
 .vscode/
-*.pdf
 *.lnk
 
 # Folders
