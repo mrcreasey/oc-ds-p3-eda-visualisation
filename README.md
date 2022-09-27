@@ -80,7 +80,7 @@ While exploring the data, questions arise, necessitating an iterative cleaning p
   - How frequently are products updated ?
   - What percentage of products are still relevant?`
 - There are 1000s of contributors, most provide incomplete information
-  - Over 80% of French products are missing all information about ingredients and additives: Mobile apps like Yuka are unable to assess the additive risk for 80% of products
+  - Over 80% of French products are missing all information about ingredients and additives: Mobile apps used to "choose healthy food products" are unable to assess the additive risk for 80% of products
   - Why do some products have over 200 registers in the database?
   - Can we merge data from many countries ?
   - Can we impute additive risks from a product category?
