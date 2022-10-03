@@ -30,16 +30,6 @@ To aid consumers make healthy choices, two indicators are proposed to supplement
 
 The relation between these two indicators and the nutriscore is explored for different food groups and by country.
 
-### Conclusion: How to Avoid Risky Additives in Ready-to-Eat Meals
-
-- ➡️ Avoid prepared products from food categories at high risk:
-  - sandwiches, pizzas, artificially sweetened drinks, dairy desserts, processed meats
-- ➡️ Use a (simple) recommendation system based on the addiscore:
-  - find the main category of a given product (example: pizza)
-  - if there are other products in this category
-    - sort by addiscore
-    - propose alternative products with the best nutrigrade in the top addiscore
-
 ## Motivation
 
 This is project 3 for the **Master in Data Science** (in French, BAC+5) from OpenClassrooms, which requests innovative ideas for applications related to food for the French public health agency
@@ -127,6 +117,16 @@ A wide range of data visualisation techniques were used to explore the data.
 - correlation heatmap, pairplot, barplot, lineplot, jointplot, box-whisker plot
 - PCA (principal component analysis), dendrogram, clustermap
 - wordclouds
+
+### Conclusion: How to Avoid Risky Additives in Ready-to-Eat Meals
+
+- ➡️ Avoid prepared products from food categories at high risk:
+  - sandwiches, pizzas, artificially sweetened drinks, dairy desserts, processed meats
+- ➡️ Use a (simple) recommendation system based on the addiscore:
+  - find the main category of a given product (example: pizza)
+  - if there are other products in this category
+    - sort by addiscore
+    - propose alternative products with the best nutrigrade in the top addiscore
 
 ## Features (Keywords)
 
